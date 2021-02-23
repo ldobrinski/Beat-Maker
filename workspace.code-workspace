@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\allSounds"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "BeatMaker"
+  }
+}
